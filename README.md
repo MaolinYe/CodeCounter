@@ -13,7 +13,7 @@ g++ -I./include -o counter main.cpp
 统计某个目录
 
 ```shell
-.\CodeCounter.exe C:\Users\Yezi\Desktop\working\tiktok
+.\counter.exe C:\Users\Yezi\Desktop\working\tiktok
 ```
 
 跳过某些目录下的文件
